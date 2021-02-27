@@ -100,7 +100,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/4f329b75f0b2a26844b4b.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/11d72d8fdffb93368aa81.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
@@ -247,7 +247,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🗄 Source code",
-                                url="https://github.com/AnimeKaizoku/SaitamaRobot",
+                                url="https://github.com/hafizihsanck/SaitamaRobot",
                             )
                         ],
                     ]
