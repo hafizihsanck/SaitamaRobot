@@ -31,7 +31,7 @@
 </p>
 <p align="center">
 <a href="https://ko-fi.com/sawada" alt="Donate!"> <img src="https://aleen42.github.io/badges/src/paypal.svg" /> </a>
-<a href="https://t.me/OnePunchUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/ihsan_bin_ahmd" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://discord.animekaizoku.com" alt="Discord"> <img src="https://img.shields.io/discord/465068856692441090?style=flat&logo=discord&color=blue" /> </a>
 <a href="" alt="AnimeKaizoku"> <img src="https://img.shields.io/badge/Built%20by-Kaizoku-blue" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
